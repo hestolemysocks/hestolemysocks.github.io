@@ -2,10 +2,10 @@ body {
     background-color: black;
     color: hotpink;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header {
-    background-color: darkslateblue;
+    background-color: rgb(51, 31, 63);
     padding: 2px;
 }
