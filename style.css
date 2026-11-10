@@ -9,3 +9,16 @@ header {
     background-color: rgb(51, 31, 63);
     padding: 2px;
 }
+
+button {
+    background-color: black;
+    border: hotpink 2px solid;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.button{
+    color: #ff69b4;
+}
